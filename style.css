@@ -1,7 +1,9 @@
 body{
    background-color: blue;
    color: white;
+   font-size: x-large
 }
+
 
 img{
     width: 1255px;
@@ -9,5 +11,13 @@ img{
 }
 
 h1, h2{
+    text-align: center;
+}
+nav{
+    text-align: center;
+}
+footer{
+    background-color: aqua;
+    color: black;
     text-align: center;
 }
