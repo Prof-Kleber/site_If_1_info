@@ -1,6 +1,6 @@
 body{
-   background-color: blue;
-   color: white;
+   background-color: whitesmoke;
+   color: black;
    font-size: x-large
 }
 
@@ -17,7 +17,13 @@ nav{
     text-align: center;
 }
 footer{
-    background-color: aqua;
+    background-color: rgb(0, 157, 255);
     color: black;
     text-align: center;
+}
+button{
+    background-color: black;
+    color: gainsboro;
+    font-size: x-large;
+    size: 50px;
 }
